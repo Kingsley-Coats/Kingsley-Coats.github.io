@@ -1,0 +1,21 @@
+body {
+    background:#f8feff;
+    font-family:"Times New Roman", Times, serif;
+    margin: 40px;
+    }
+    h1 {
+    text-align: center;
+    color: #6471fd;
+    }
+    .about {
+        background: #00b3d1;
+        }
+    .projects {
+        background: #00b3d1;
+        }
+    .skills {
+        background: #00b3d1;
+        }
+    .contact {
+        background: #00b3d1;
+        }
