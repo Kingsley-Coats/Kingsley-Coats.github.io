@@ -10,12 +10,17 @@ body {
     .about {
         background: #00b3d1;
         }
-    .projects {
-        background: #76d100;
-        }
     .skills {
         background: #00b3d1;
         }
     .contact {
         background: #00b3d1;
+        }
+        .projects { display:flex; flex-wrap:wrap; } /* condensed to save space */
+        .project {
+        width: 30%;
+        margin: 10px;
+        padding: 20px 10px;
+        background: #76d100;
+        border-radius: 25%;
         }
